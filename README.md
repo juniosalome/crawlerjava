@@ -6,8 +6,8 @@ Projeto desenvolvido em java 19 usando vscode
 
 Arquivos para rodar esse projeto:
 
-- JavaApplication.java
-- WebCrawler.java
+- [JavaApplication.java](https://github.com/juniosalome/crawlerjava/tree/main/java/src/main/java/crawler/java)
+- [WebCrawler.java](https://github.com/juniosalome/crawlerjava/tree/main/java/src/main/java/crawler/java/mtWebCrawler)
 
 No vscode tem que adicionar no arquivo pom.xml
 
